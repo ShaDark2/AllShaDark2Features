@@ -1,0 +1,9 @@
+Binaries/*
+Build/*
+*_BuiltData.uasset
+Config/*
+Saved/*
+!Saved/SourceControl/*
+DerivedDataCache/*
+Intermediate/*
+Platforms/*
